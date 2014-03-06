@@ -1,20 +1,22 @@
 {
-  "name": "hubot-reactgif",
-  "version": "0.1.0",
-  "author": "Mike Bestvina <mbesto@gmail.com>",
-  "description": "Display random reaction gif from Imgur reaction gif archive",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/mbesto/hubot-reactgif.git"
-  },
-  "keywords": [
-    "hubot",
-    "imgur",
-    "reactiongif",
-  ],
-  "dependencies" : {
-    "coffee-script": "~1.6",
-    "underscore": ">= 1.0",
-  }
+    "name": "hubot-reactgif",
+    "version": "1.0.0",
+
+    "description": "Display random reaction gif from Imgur reaction gif archive",
+    "keywords": [ "hubot", "hubot-scripts", "reactiongif" ],
+
+    "author": "Mike Bestvina <mbesto@gmail.com>",
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mbesto/hubot-reactgif.git"
+    },
+    "homepage": "https://github.com/mbesto/hubot-reactgif",
+    "bugs": "https://github.com/mbesto/hubot-reactgif/issues",
+
+    "dependencies": {
+        "coffee-script": "~1.6"
+    },
+
+    "main": "./index.coffee"
 }
