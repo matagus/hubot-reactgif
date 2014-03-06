@@ -14,26 +14,26 @@ Install
 Commands
 --------
 
-hubot reactgif nope
-hubot reactgif child fail
-hubot reactgif fuck
-hubot reactgif disgust
-hubot reactgif excited
-hubot reactgif clapping
-hubot reactgif stfu
-hubot reactgif angry
-hubot reactgif not bad
-hubot reactgif popcorn
-hubot reactgif haters
-hubot reactgif no read
-hubot reactgif mind blown
-hubot reactgif wut
-hubot reactgif cool story
-hubot reactgif umad
-hubot reactgif deal with it
-hubot reactgif no fucks
-hubot reactgif laughing
-hubot reactgif self inflict
+`hubot reactgif nope`
+`hubot reactgif child fail`
+`hubot reactgif fuck`
+`hubot reactgif disgust`
+`hubot reactgif excited`
+`hubot reactgif clapping`
+`hubot reactgif stfu`
+`hubot reactgif angry`
+`hubot reactgif not bad`
+`hubot reactgif popcorn`
+`hubot reactgif haters`
+`hubot reactgif no read`
+`hubot reactgif mind blown`
+`hubot reactgif wut`
+`hubot reactgif cool story`
+`hubot reactgif umad`
+`hubot reactgif deal with it`
+`hubot reactgif no fucks`
+`hubot reactgif laughing`
+`hubot reactgif self inflict`
 
 
 License
