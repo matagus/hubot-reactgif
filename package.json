@@ -1,0 +1,20 @@
+{
+  "name": "hubot-reactgif",
+  "version": "0.1.0",
+  "author": "Mike Bestvina <mbesto@gmail.com>",
+  "description": "Display random reaction gif from Imgur reaction gif archive",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbesto/hubot-reactgif.git"
+  },
+  "keywords": [
+    "hubot",
+    "imgur",
+    "reactiongif",
+  ],
+  "dependencies" : {
+    "coffee-script": "~1.6",
+    "underscore": ">= 1.0",
+  }
+}
